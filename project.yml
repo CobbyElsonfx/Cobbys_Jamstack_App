@@ -1,0 +1,9 @@
+environment:
+   DB_URL:  ${DATABASE_URL}
+packages:
+  - name: cloud
+    actions:
+      - name: getCoffee
+        binary: false
+        main: ''
+        runtime: 'nodejs:default'

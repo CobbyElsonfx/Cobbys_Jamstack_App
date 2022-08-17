@@ -12,7 +12,7 @@ fetch('https://faas-fra1-afec6ce7.doserverless.co/api/v1/web/fn-05c61485-1223-4a
             tbDataImageContent.style = "width: 100px; height: 100px;"
             tbDataImage.appendChild(tbDataImageContent)
 
-            let tbDataDetails = document.createElement('td')
+            let tbDataDetails = document.createElement('td') 
             tbDataDetails.scope = "col";
             let tbDataDetailsName = document.createElement('h2')
             tbDataDetailsName.innerHTML = item.name;

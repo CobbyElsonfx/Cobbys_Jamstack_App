@@ -4,14 +4,14 @@
     "namespace": "fn-05c61485-1223-4a2c-a95f-0794f20a99b2",
     "packageVersions": {
       "cloud": {
-        "version": "0.0.21",
+        "version": "0.0.45",
         "digest": "c8783f2c8d3676ff95317ec1d2f1c7d17b55ff327f7d4d5a4ed6344ab16e83f4"
       }
     },
     "actionVersions": {
       "cloud/getCoffee": {
-        "version": "0.0.5",
-        "digest": "ef7826987c74409240f2cb64684043c88830933c211dce8b0ea061e119ae1cb1"
+        "version": "0.0.16",
+        "digest": "0605ea8d2925965044d138c2cdea0e7eb5c3d914dbbcafcbf5821e776c5111ee"
       }
     },
     "webHashes": {}
